@@ -1,0 +1,39 @@
+header.masthead .intro-text {
+  padding-top: 33px !important;
+}
+
+header.masthead .intro-text .intro-heading {
+  font-size: 52px !important;
+  color: rgb(244,177,55);
+}
+
+.text-muted.section-subheading {
+  width: 80% !important;
+}
+
+#textoo {
+  word-wrap: break-word;
+  width: 100%;
+  font-size: 19PX;
+}
+
+#textoo p {
+  line-height: 1;
+}
+
+.titulo_two h2 {
+  font-size: 28px !important;
+  margin-top: -93px !important;
+  color: #cf9121;
+  margin-bottom: 72px !important;
+}
+
+.legenda_do_video {
+  margin-top: 57px !important;
+  font-size: 21px !important;
+}
+
+.bg-light {
+  background-color: #ffffff !important;
+}
+
