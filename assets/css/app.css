@@ -40,7 +40,7 @@ header.masthead .intro-text .intro-heading {
 
 
 /*
-ADAPTAÇÃO PARA CELULARES
+BEGIN ADAPTAÇÃO PARA CELULARES
 */
 @media only screen and (max-width: 600px) {
   header.masthead .intro-text .intro-heading {
@@ -58,3 +58,6 @@ ADAPTAÇÃO PARA CELULARES
     font-size: 17px !important;
   }
 }
+/*
+END ADAPTAÇÃO PARA CELULARES
+*/
