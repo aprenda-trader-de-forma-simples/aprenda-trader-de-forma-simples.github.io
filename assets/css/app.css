@@ -46,7 +46,7 @@ BEGIN ADAPTAÇÃO PARA CELULARES
   header.masthead .intro-text .intro-heading {
     font-size: 30px !important;
     color: rgb(244,177,55);
-    line-height: 2;
+    line-height: 1.1;
   }
   
   #video{
@@ -56,6 +56,11 @@ BEGIN ADAPTAÇÃO PARA CELULARES
   
   .titulo_two h2 {
     font-size: 17px !important;
+  }
+  
+  
+  #textoo p {
+    line-height: 1.1;
   }
 }
 /*
