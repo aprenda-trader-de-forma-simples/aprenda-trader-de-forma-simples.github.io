@@ -37,18 +37,23 @@ header.masthead .intro-text .intro-heading {
   background-color: #ffffff !important;
 }
 
+
+/*
+Estilo para responsividade
+*/
 @media only screen and (max-width: 600px) {
   header.masthead .intro-text .intro-heading {
     font-size: 30px !important;
     color: rgb(244,177,55);
     line-height: 1.2;
   }
+  
   #video{
     width:100% !important;
     height: 300px !important;      
   }
+  
   .titulo_two h2 {
     font-size: 17px !important;
   }
 }
-
