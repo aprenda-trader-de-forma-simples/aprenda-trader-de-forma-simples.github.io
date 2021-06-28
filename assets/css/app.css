@@ -39,7 +39,8 @@ header.masthead .intro-text .intro-heading {
 }
 
 /*
-BEGIN ADAPTAÇÃO PARA CELULARES
+ADAPTAÇÃO PARA CELULARES
+===========RESPONSIVIDADE============
 */
 @media only screen and (max-width: 600px) {
   header.masthead .intro-text .intro-heading {
@@ -64,6 +65,3 @@ BEGIN ADAPTAÇÃO PARA CELULARES
     line-height: 1.1;
   }
 }
-/*
-END ADAPTAÇÃO PARA CELULARES
-*/
