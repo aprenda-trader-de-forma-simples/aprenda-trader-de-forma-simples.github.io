@@ -56,7 +56,8 @@ BEGIN ADAPTAÇÃO PARA CELULARES
   
   /* Tamanho da fonte do segunto titulo em laranja */
   .titulo_two h2 {
-    font-size: 17px !important;
+    font-size: 19px !important;
+    margin-top: 15px !important;
   }
   
   /* Espaçamento entre as linhas dos textos */
