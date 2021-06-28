@@ -54,11 +54,12 @@ BEGIN ADAPTAÇÃO PARA CELULARES
     height: 300px !important;      
   }
   
+  /* Tamanho da fonte do segunto titulo em laranja */
   .titulo_two h2 {
     font-size: 17px !important;
   }
   
-  
+  /* Espaçamento entre as linhas dos textos */
   #textoo p {
     line-height: 1.1;
   }
