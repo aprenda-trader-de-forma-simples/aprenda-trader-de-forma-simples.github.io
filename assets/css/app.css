@@ -47,5 +47,8 @@ header.masthead .intro-text .intro-heading {
     width:100% !important;
     height: 300px !important;      
   }
+  .titulo_two h2 {
+    font-size: 17px !important;
+  }
 }
 
